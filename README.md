@@ -46,4 +46,4 @@ That evidence supports a finding about the local teaching app under its tested c
 
 Review the agent's output against the raw evidence and the applicable policy. Keep secrets out of the shareable report while preserving an authorized, protected original. These files help structure research and review; they do not predict a program's acceptance decision.
 
-Derived from the checklist and teaching examples in `RBLN-West-2026-Six-Gates-Delivery.pptx`.
+Companion materials for Kartik Ganesh's talk at Rebellion, **The Six Gates That Kill a Vulnerability Report**.
